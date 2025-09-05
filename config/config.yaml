@@ -1,0 +1,5 @@
+data_ingestion:
+  bucket_name: "weed2detection"
+  object_name: "merged_data.csv"
+  storage_path: "s3.ir-thr-at1.arvanstorage.ir"
+  train_ratio: 0.9

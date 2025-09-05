@@ -1,3 +1,6 @@
 /.idea
 /.venv
 /activate-venv.txt
+logs/
+*.log
+__pycache__/
